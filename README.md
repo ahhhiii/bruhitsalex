@@ -1,4 +1,8 @@
-### Self-taught programmer working on graphics, full-stack, and somewhat reverse engineering
+### Self-taught programmer working on graphics, full-stack, and somewhat reverse engineering.
 
-[![bruhitsalex's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruhitsalex)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruhitsalex)](https://github.com/anuraghazra/github-readme-stats)<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bruhitsalex" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhitsalex" />
+</a>
