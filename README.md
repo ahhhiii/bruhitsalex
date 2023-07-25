@@ -1,4 +1,4 @@
-Kotlin, Rust, Zig, Java, Swift.
+Kotlin, Swift, Java, Rust, Zig, Go.
 
 Focusing on systems languages, reverse engineering, the JVM and bypassing anticheats.
 
